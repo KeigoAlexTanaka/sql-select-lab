@@ -22,8 +22,8 @@ We're going to use what we've learned already about searching with SQL commands,
 
 #### Requirements
 
-- Fork and clone the repository
-- Use the clues.sql file as your "answer sheet"
+- Fork and clone this repository
+- Use the `clues.sql` file as your "answer sheet"
 - From the command line, let's create a new database called `carmen` and populate it with the SQL found in `world.sql`
 
 ```
@@ -61,7 +61,7 @@ Then, use the clues below to create the appropriate SQL queries to help you find
 
   - **Clue #6:** We're close! Our South American agent says she just got a taxi at the airport, and is headed towards the capital! Look up the country's capital, and get there pronto! Send us the name of where you're headed and we'll follow right behind you!
 
-  - **Clue #7:** She knows we're on to her: her taxi dropped her off at the international airport, and she beat us to the boarding gates. We have one chance to catch her, we just have to know where she's heading and beat her to the landing dock.
+  - **Clue #7:** She knows we're on to her: her taxi dropped her off at the international airport, and she beat us to the boarding gates. We have one chance to catch her, we just have to know where she's heading and beat her to the landing dock. *Note: This question has no query, move onto Clue #8.*
 
   - **Clue #8** Lucky for us, she's getting cocky. She left us a note, and I'm sure she thinks she's very clever, but if we can crack it, we can finally put her where she belongs – behind bars.
 
@@ -77,11 +77,11 @@ Then, use the clues below to create the appropriate SQL queries to help you find
 
 #### Starter code
 
-Again, be sure to grab the .sql file from the [starter-code](starter-code/world.sql) and run it in your PostgreSQL terminal using the commands above.
+Again, be sure to grab the `.sql` file from the [starter-code](./starter-code/world.sql) and run it in your PostgreSQL terminal using the commands above.
 
 #### Deliverable
 
-Use the clues.sql file to write in the SQL queries that correspond with each clue and tell us where she's heading at the bottom:
+Use the `clues.sql` file to write in the SQL queries that correspond with each clue and tell us where she's heading at the bottom:
 
 <p align="center">
   <img src ="https://i.kinja-img.com/gawker-media/image/upload/s--RtQzyhbh--/c_fill,f_auto,fl_progressive,g_center,h_675,q_80,w_1200/mtyawyjapccw4it6i5ps.gif">
